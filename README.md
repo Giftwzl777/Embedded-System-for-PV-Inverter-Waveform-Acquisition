@@ -47,12 +47,13 @@
 
 ## 技术要点
 
-- **MCU 芯片：** STM32F103C8T6  
+- **MCU 芯片：** STM32F103C8T6
+- **Linux平台：** IMX6ULL
 - **ADC 配置：** 12 位，采样频率 10kHz+
 - **采集信号类型：** 交流侧电压、电流波形  
 - **通信模块：** Quectel BC20（NB-IoT）  
 - **通信协议：** TL698、MQTT  
 - **数据库：** MySQL  
-- **边缘平台：** IMX6ULL（Linux）  
+
 
 
